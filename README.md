@@ -47,20 +47,20 @@ Proyek ini bertujuan untuk memberikan simulasi sederhana dari sistem antrian tik
 
 - Menambah data antrian
 
-![img 1](Menambah-data-antrian)
+![Menambah-data-antrian](img/Menambah-data-antrian.png?raw=true)
 
 - Melihat list data antrian
 
-![img 2](Melihat-list-data-antrian)
+![Melihat-list-data-antrian](img/Melihat-list-data-antrian.png?raw=true)
 
 - Melihat informasi data antrian
 
-![img 3](Melihat-informasi-data-antrian)
+![Melihat-informasi-data-antrian](img/Melihat-Informasi-data-antrian.png?raw=true)
 
 - Menghapus data antrian terdahulu
 
-![img 4](Menghapus-data-antrian-terdahulu)
+![Menghapus-data-antrian-terdahulu](img/Menghapus-data-antrian-terdahulu.png?raw=true)
 
 - Keluar dari program
 
-![img 5](Keluar-dari-program)
+![Keluar-dari-program](img/Keluar-dari-program.png?raw=true)
