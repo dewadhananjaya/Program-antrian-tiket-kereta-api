@@ -42,3 +42,25 @@ Program ini menggunakan beberapa perintah `os.system("CLS")` untuk membersihkan 
 ### Tujuan Proyek
 
 Proyek ini bertujuan untuk memberikan simulasi sederhana dari sistem antrian tiket kereta api. Ini dapat digunakan sebagai latihan untuk memahami konsep antrian dalam pemrograman serta bagaimana mengimplementasikan dan mengelola antrian menggunakan struktur data yang tepat (deque dalam hal ini). Selain itu, program ini juga memberikan pengalaman dalam membangun antarmuka pengguna berbasis teks yang interaktif.
+
+### Output Proyek
+
+- Menambah data antrian
+
+![img 1](Menambah-data-antrian)
+
+- Melihat list data antrian
+
+![img 2](Melihat-list-data-antrian)
+
+- Melihat informasi data antrian
+
+![img 3](Melihat-informasi-data-antrian)
+
+- Menghapus data antrian terdahulu
+
+![img 4](Menghapus-data-antrian-terdahulu)
+
+- Keluar dari program
+
+![img 5](Keluar-dari-program)
