@@ -1,6 +1,6 @@
 # Program-antrian-tiket-kereta-api
 
-Proyek ini adalah program berbasis terminal untuk mengelola antrian tiket kereta api. Program ini memungkinkan pengguna untuk melakukan berbagai operasi terkait antrian tiket, seperti menambah tiket ke dalam antrian, melihat daftar tiket dalam antrian, menghapus tiket dari antrian, dan melihat informasi mengenai antrian saat ini. Program ini menggunakan class `TicketQueue` untuk mengelola antrian dan deque dari modul `collections` untuk menyimpan tiket. Berikut adalah penjelasan detail tentang masing-masing komponen dan fungsinya:
+Ini adalah program berbasis terminal untuk mengelola antrian tiket kereta api. Program ini memungkinkan pengguna untuk melakukan berbagai operasi terkait antrian tiket, seperti menambah tiket ke dalam antrian, melihat daftar tiket dalam antrian, menghapus tiket dari antrian, dan melihat informasi mengenai antrian saat ini. Program ini menggunakan class `TicketQueue` untuk mengelola antrian dan deque dari modul `collections` untuk menyimpan tiket. Berikut adalah penjelasan detail tentang masing-masing komponen dan fungsinya:
 
 ### Class `TicketQueue`
 
@@ -39,11 +39,11 @@ Fungsi ini mengatur alur program dengan menampilkan menu layanan kepada pengguna
 
 Program ini menggunakan beberapa perintah `os.system("CLS")` untuk membersihkan layar terminal (khusus untuk sistem operasi Windows) setiap kali menu ditampilkan atau operasi selesai dilakukan, agar tampilan lebih rapi dan mudah dibaca.
 
-### Tujuan Proyek
+### Tujuan Program
 
-Proyek ini bertujuan untuk memberikan simulasi sederhana dari sistem antrian tiket kereta api. Ini dapat digunakan sebagai latihan untuk memahami konsep antrian dalam pemrograman serta bagaimana mengimplementasikan dan mengelola antrian menggunakan struktur data yang tepat (deque dalam hal ini). Selain itu, program ini juga memberikan pengalaman dalam membangun antarmuka pengguna berbasis teks yang interaktif.
+Program ini bertujuan untuk memberikan simulasi sederhana dari sistem antrian tiket kereta api. Ini dapat digunakan sebagai latihan untuk memahami konsep antrian dalam pemrograman serta bagaimana mengimplementasikan dan mengelola antrian menggunakan struktur data yang tepat (deque dalam hal ini). Selain itu, program ini juga memberikan pengalaman dalam membangun antarmuka pengguna berbasis teks yang interaktif.
 
-### Output Proyek
+### Output Program
 
 - Menambah data antrian
 
