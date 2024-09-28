@@ -64,3 +64,7 @@ Program ini bertujuan untuk memberikan simulasi sederhana dari sistem antrian ti
 - Keluar dari program
 
 ![Keluar-dari-program](img/Keluar-dari-program.png?raw=true)
+
+![Keluar-dari-program](img/Keluar-dari-program-2.png?raw=true)
+
+
